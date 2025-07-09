@@ -21,7 +21,7 @@ theme_config:
   show_navbar: true
   show_footer: true
   show_projects: true
-  show_blog: false          # pas de blog pour l’instant
+  show_blog: true
   show_old_projects: false
   show_misc_list: false
   show_reading_time: false
