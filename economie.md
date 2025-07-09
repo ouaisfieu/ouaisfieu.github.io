@@ -1,5 +1,5 @@
 ---
-layout: page              # « page » plutôt que « post » pour un dossier
+layout: post
 title: "Échanges économiques : de l’« intelligence » à la « stupidité » économiques"
 permalink: /economie
 toc: true
