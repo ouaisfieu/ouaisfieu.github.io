@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Échanges économiques : de l’« intelligence » à la « stupidité » économiques"
-permalink: /dossiers/economie/
+permalink: /dossiers/economie        # sans /
 toc: true
 ---
 
