@@ -5,8 +5,8 @@ navbar_entries:
     url: dossiers
   - title: "Bruxelles 2030"
     url: bxl2030
-  - title: "GPT Pardi"
-    url: gptpardi
+  - title: "GPTPardi"
+    url: GPTPardi
   - title: "Presse"
     url: presse
 
