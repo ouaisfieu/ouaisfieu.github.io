@@ -13,7 +13,7 @@ twitter:
   card: summary_large_image
 
 theme_config:
-  appearance: "auto"
+  appearance: "dark"
   appearance_toggle: true
   back_home_text: "Accueil"
   date_format: "%d %b %Y"
