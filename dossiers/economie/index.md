@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Échanges économiques : de l’« intelligence » à la « stupidité » économiques"
 permalink: /dossiers/economie/
 toc: true
