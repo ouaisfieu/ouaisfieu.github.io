@@ -14,7 +14,7 @@ twitter:
 
 theme_config:
   appearance: "dark"
-  appearance_toggle: true
+  appearance_toggle: false
   back_home_text: "Accueil"
   date_format: "%d %b %Y"
   show_description: true
