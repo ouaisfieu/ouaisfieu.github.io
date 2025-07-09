@@ -12,24 +12,23 @@ navbar_entries:
 
 project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Échanges économiques"
-    url: dossiers/economie
+    url: /economie
     desc: "Concentration de la richesse et pistes coopératives"
   - title: "Citoyenneté administrative"
-    url: dossiers/citoyennete
+    url: /citoyennete
     desc: "Pourquoi la paperasse est-elle un obstacle au droit ?"
   - title: "Guerre économique"
-    url: dossiers/sanctions
+    url: /sanctions
     desc: "Les sanctions nuisent-elles surtout aux civils ?"
   - title: "Information & pouvoir d’agir"
-    url: dossiers/info
+    url: /info
     desc: "Infobésité, médias de masse et solutions citoyennes"
 
 footer_entries:
   - title: "GitHub"
     url: https://github.com/ouaisfieu
   - title: "Forum"
-    url: https://forum.ouaisfi.eu
-  - title: "Licence CC BY-SA 4.0"
-    url: https://creativecommons.org/licenses/by-sa/4.0/
+    url: https://ouaisfi.eu
+
 
 # tu pourras ajouter misc_entries plus tard si besoin (FAQ, liens externes, etc.)
