@@ -1,101 +1,35 @@
 navbar_entries:
-  - title: about
+  - title: "Le projet"
     url: about
+  - title: "Dossiers"
+    url: dossiers
+  - title: "Bruxelles 2030"
+    url: bxl2030
+  - title: "GPT Pardi"
+    url: gptpardi
+  - title: "Presse"
+    url: presse
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
-
-project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+project_entries:           # affichés en cartes sur la page d’accueil
+  - title: "Échanges économiques"
+    url: dossiers/economie
+    desc: "Concentration de la richesse et pistes coopératives"
+  - title: "Citoyenneté administrative"
+    url: dossiers/citoyennete
+    desc: "Pourquoi la paperasse est-elle un obstacle au droit ?"
+  - title: "Guerre économique"
+    url: dossiers/sanctions
+    desc: "Les sanctions nuisent-elles surtout aux civils ?"
+  - title: "Information & pouvoir d’agir"
+    url: dossiers/info
+    desc: "Infobésité, médias de masse et solutions citoyennes"
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: "GitHub"
+    url: https://github.com/ouaisfieu
+  - title: "Forum"
+    url: https://forum.ouaisfi.eu
+  - title: "Licence CC BY-SA 4.0"
+    url: https://creativecommons.org/licenses/by-sa/4.0/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
+# tu pourras ajouter misc_entries plus tard si besoin (FAQ, liens externes, etc.)
