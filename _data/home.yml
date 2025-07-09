@@ -14,7 +14,7 @@ project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Échanges économiques"
     url: /economie
     desc: "Concentration de la richesse et pistes coopératives"
-  - title: "Citoyenneté administrative"
+  - title: "La citoyenneté, c'est le brol"
     url: /citoyennete
     desc: "Pourquoi la paperasse est-elle un obstacle au droit ?"
   - title: "Guerre économique"
