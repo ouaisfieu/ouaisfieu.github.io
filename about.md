@@ -37,12 +37,22 @@ Ce site rassemble une **base de connaissances libre, critique et opérationnelle
 
 ## 1 · Cartographie des axes thématiques
 
-| Axe | Dossiers clés | Idée directrice |
-|-----|---------------|-----------------|
-| **Pouvoir & Économie** | *Guerre économique* · *Évolution des échanges* · *Empowerment & pouvoir d’agir* | Comprendre comment les mécanismes économiques influencent l’autonomie individuelle et collective. |
-| **Gouvernance & Citoyenneté** | *Citoyenneté « brol »* · *Dynamiques politiques belges* · *Auftragstaktik & participation* · *Civic tech & Open Data* | Décrypter les structures institutionnelles belges et les voies de participation citoyenne. |
-| **Veille & Renseignement citoyen** | *OSINT & IE* · *Veille citoyenne (enjeux + guide)* | Outiller les acteurs de terrain pour collecter, analyser et diffuser l’information ouverte. |
-| **Méthodes & Communs** | Ensemble des dossiers → annexe méthodologique | Promouvoir les outils libres, les licences ouvertes et la gouvernance coopérative. |
+**Pouvoir & Économie**  
+*Dossiers : Guerre économique · Évolution des échanges · Empowerment & pouvoir d’agir*  
+→ Comprendre comment les mécanismes économiques façonnent – et parfois limitent – l’autonomie individuelle et collective.
+
+**Gouvernance & Citoyenneté**  
+*Dossiers : Citoyenneté « brol » · Dynamiques politiques belges · Auftragstaktik & participation · Civic tech & Open Data*  
+→ Décrypter les structures institutionnelles belges et identifier les voies de participation citoyenne, qu’elles soient traditionnelles ou numériques.
+
+**Veille & Renseignement citoyen**  
+*Dossiers : OSINT & Intelligence économique · Veille citoyenne (enjeux + guide)*  
+→ Outiller les acteurs de terrain pour collecter, analyser et diffuser de l’information ouverte au service de la démocratie.
+
+**Méthodes & Communs**  
+*Dossiers : annexe méthodologique (synthèse de l’ensemble)*  
+→ Promouvoir l’usage d’outils libres, de licences ouvertes et d’une gouvernance coopérative pour que le savoir produit demeure un bien commun.
+
 
 ---
 
