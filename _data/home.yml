@@ -4,16 +4,16 @@
 project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Échanges économiques"
     url: /economie
-    desc: "Concentration de la richesse et pistes coopératives"
+    desc: "De l’« intelligence » à la « stupidité » économique"
   - title: "La citoyenneté, c'est le brol"
     url: /citoyennete
-    desc: "Pourquoi la paperasse est-elle un obstacle au droit ?"
+    desc: "Et tire ton plan avec ça !"
   - title: "Guerre économique"
     url: /sanctions
-    desc: "Les sanctions nuisent-elles surtout aux civils ?"
+    desc: "Allez, une bonne guerre ?"
   - title: "Information & pouvoir d’agir"
     url: /info
-    desc: "Infobésité, médias de masse et solutions citoyennes"
+    desc: "« Savoir, c’est pouvoir », mais pas pour tout le monde"
 
 footer_entries:
   - title: "GitHub"
