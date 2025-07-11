@@ -9,7 +9,7 @@ toc: true
 Comment passer d’un commandement militaire décentralisé à une gouvernance citoyenne agile ?  
 Ce dossier dévoile les ponts conceptuels entre la « tactique par mission » prussienne et les nouvelles formes de démocratie participative.
 
-> « Un ordre doit contenir tout ce qu’un subordonné ne peut décider, mais rien que cela. »:contentReference[oaicite:0]{index=0}
+> « Un ordre doit contenir tout ce qu’un subordonné ne peut décider, mais rien que cela. »
 
 ## Que trouverez-vous dans ce dossier ?
 
