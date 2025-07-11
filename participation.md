@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De l’Auftragstaktik militaire à la participation citoyenne consciente"
-permalink: /auftragstaktik-citoyenne
+permalink: /participation
 toc: true
 ---
 
