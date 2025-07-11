@@ -27,10 +27,10 @@ Comparée à l’Estonie (quasi « zéro-papier ») ou au Canada (identité féd
 Simplifier sans perdre l’équité ni la sécurité reste le défi majeur des démocraties numériques.
 
 ## Lire ou télécharger
-- 📄 **[Télécharger le PDF](assets/pdf/citoyennete.pdf)** (3 Mo)
+- 📄 **[Télécharger le PDF](assets/pdf/citoyennete.pdf)**
 
 <iframe
-  src="/assets/pdf/citoyennete.pdf#toolbar=0"
+  src="/assets/pdf/citoyennete.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border:none;margin-top:1rem;"
