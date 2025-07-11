@@ -31,7 +31,7 @@ Garantir un accès libre, critique et éthique à l’information – tout en pr
 - 📄 **[Télécharger le PDF](assets/pdf/information.pdf)** 
 
 <iframe
-  src="/assets/pdf/information.pdf#toolbar=0"
+  src="/assets/pdf/information.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
