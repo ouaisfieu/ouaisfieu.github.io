@@ -28,7 +28,7 @@ L’Auftragstaktik, doctrine militaire prônant l’initiative locale au service
 - 📄 **[Télécharger le PDF](assets/pdf/participation.pdf)** 
 
 <iframe
-  src="/assets/pdf/participation.pdf#toolbar=0"
+  src="/assets/pdf/participation.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
