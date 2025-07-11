@@ -5,7 +5,6 @@ permalink: /guerre-economique
 toc: true
 ---
 
-# La guerre économique et ses répercussions sur la société civile
 
 Quand les conflits ne passent plus par les armes, ils prennent la forme de sanctions, d’embargos et de guerres commerciales.  
 Ce dossier explore les formes modernes de guerre économique et leur impact sur les populations civiles.
