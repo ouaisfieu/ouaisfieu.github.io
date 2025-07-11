@@ -29,10 +29,10 @@ En retraçant cinq grandes ruptures, le dossier explique comment la quête d’e
 Il propose de réorienter l’économie vers des modèles coopératifs, open source et locaux afin de remettre le bien commun au centre.
 
 ## Lire ou télécharger
-- 📄 **[Télécharger le PDF](assets/pdf/economie.pdf)** (2 Mo)
+- 📄 **[Télécharger le PDF](assets/pdf/economie.pdf)**
 
 <iframe
-  src="/assets/pdf/economie.pdf#toolbar=0"
+  src="/assets/pdf/economie.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
