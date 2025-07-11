@@ -14,10 +14,24 @@ project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Information & pouvoir d’agir"
     url: /information
     desc: "« Savoir, c’est pouvoir », mais pas pour tout le monde"
-    
   - title: "Auftragstaktik citoyenne"
     url: /participation
     desc: "Pour rendre au Kaiser ce qui est au Kaiser"
+  - title: "Civic Tech et Open Data"
+    url: /opendata
+    desc: "Entre participation citoyenne numérique et ouverture des données publiques"
+
+  - title: "OSINT & Intelligence Économique"
+    url: /intelligence
+    desc: "Historique, pratiques et synergies pour une petite structure associative"
+
+  - title: "Avance en groupe, ou crève sur place"
+    url: /pouvoir
+    desc: "Empowerment & pouvoir d’agir collectif face à l’hégémonie capitaliste" 
+
+  - title: "Veille citoyenne en FWB"
+    url: /veille
+    desc: "Transformer l’information en levier d’empouvoirement démocratique"
 
 footer_entries:
   - title: "Prototype-I"
