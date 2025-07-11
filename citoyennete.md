@@ -5,15 +5,28 @@ permalink: /citoyennete
 toc: true
 ---
 
-> « Remplir un formulaire A pour obtenir un formulaire B » : **la citoyenneté peut devenir un labyrinthe administratif**.
+De l’Athènes antique aux cartes d’identité électroniques, notre statut de citoyen s’est emballé dans une spirale de règles, de papiers… et d’injonctions contradictoires.  
+Ce dossier démonte les rouages (et les déraillements) d’un système administratif devenu tentaculaire.
 
-### Ce dossier en 4 idées‑clé
-- **Histoire** : de l’Athènes antique à la carte eID, la citoyenneté s’est bureaucratisée.
-- **Absurdismes belges** : vote obligatoire, carte d’identité permanente, démarches doublon malgré l’e‑gov.
-- **Conséquences sociales** : non‑recours aux droits, fracture numérique, lenteurs excluantes.
-- **Comparatif international** : Estonie (e‑gov modèle) ↔ Canada (fragmentation) ; la Belgique au milieu.
+> « La citoyenneté moderne est un enchevêtrement bureaucratique : un filet bien ordonné dans lequel chacun de nous est pris, pour le meilleur et pour le pire. »
 
-### Lire ou télécharger
+## Que trouverez-vous dans ce dossier ?
+
+- Une **chronologie éclairante** : de la citoyenneté privilégiée des cités antiques au “registre national” numérique.  
+- Les **cinq lois françaises** clés qui ont transformé la nationalité (1791 → 1945).  
+- Un **focus belge** : vote obligatoire, « papiers partout », fédéralisme kafkaïen.  
+- Les **absurdités administratives** illustrées (non-recours aux droits, délais démesurés, e-guichets qui compliquent).  
+- Un **regard comparatif international** (Estonie, France, Canada) sur la fluidité ou la lourdeur de l’expérience citoyenne.  
+- Une analyse « citoyenneté & contrôle social » : surveillance, obligations, gouvernementalité.
+
+## TL;DR
+
+La citoyenneté, jadis privilège politique, est devenue un labyrinthe administratif : fichiers, identifiants, formulaires…  
+Si l’État promet protection et droits, il impose aussi une surveillance serrée et des démarches complexes qui excluent les plus vulnérables.  
+Comparée à l’Estonie (quasi « zéro-papier ») ou au Canada (identité fédérale éclatée), la Belgique incarne le **“brol” bureaucratique** : beaucoup de numérique, mais aussi beaucoup de doublons et d’obligations.  
+Simplifier sans perdre l’équité ni la sécurité reste le défi majeur des démocraties numériques.
+
+## Lire ou télécharger
 - 📄 **[Télécharger le PDF](assets/pdf/citoyennete.pdf)** (3 Mo)
 
 <iframe
