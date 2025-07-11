@@ -14,6 +14,10 @@ project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Information & pouvoir d’agir"
     url: /information
     desc: "« Savoir, c’est pouvoir », mais pas pour tout le monde"
+    
+  - title: "Auftragstaktik citoyenne"
+    url: /participation
+    desc: "Pour rendre au Kaiser ce qui est au Kaiser"
 
 footer_entries:
   - title: "Prototype-I"
