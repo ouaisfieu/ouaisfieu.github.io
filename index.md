@@ -1,15 +1,16 @@
 ---
 layout: home
-title: "Ouaisfi.eu — Veille citoyenne critique"
+title: "Ouaisfi·eu - juste pour info "
 permalink: /
 ---
 
 Bienvenue sur **Ouaisfi.eu**,
 
-> « Comprendre pour agir, partager pour construire. »
 
 Retrouvez les dossiers thématiques ci‑dessous
 
-*Site sans pub, sans traceur — CC BY‑SA 4.0.*
+> « Comprendre pour agir, partager pour construire. »
+
+*© 2025 · – Dont'be evil, just do it - ·*
 
 ---
