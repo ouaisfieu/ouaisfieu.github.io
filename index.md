@@ -13,4 +13,7 @@ Retrouvez les dossiers thématiques ci‑dessous
 
 *© 2025 · – Dont'be evil, just do it - ·*
 
+Licence Libre NC-0A 1.0
+(“Pas d’utilisation commerciale, self-service open bar pour le reste”)
+
 ---
