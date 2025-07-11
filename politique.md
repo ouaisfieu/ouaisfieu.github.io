@@ -31,7 +31,7 @@ Le défi : simplifier sans briser l’équilibre, et ouvrir le jeu politique aux
 - 📄 **[Télécharger le PDF](assets/pdf/politique.pdf)** 
 
 <iframe
-  src="/assets/pdf/politique.pdf#toolbar=0"
+  src="/assets/pdf/politique.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
