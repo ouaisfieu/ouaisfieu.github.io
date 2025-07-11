@@ -36,7 +36,7 @@ Avec des outils majoritairement libres (Shodan, theHarvester, Maltego CE, OSINT 
 - 📄 **[Télécharger le PDF](assets/pdf/intelligence.pdf)** 
 
 <iframe
-  src="/assets/pdf/intelligence.pdf#toolbar=0"
+  src="/assets/pdf/intelligence.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
