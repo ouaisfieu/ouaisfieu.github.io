@@ -34,7 +34,9 @@ project_entries:           # affichés en cartes sur la page d’accueil
     desc: "Transformer l’information en levier d’empouvoirement démocratique"
 
 footer_entries:
-  - title: "Prototype-I"
+  - title: "À propos"
+    url: about
+  - title: "Prototruc-I"
     url: dossiers
   - title: "Bruxelles 2030"
     url: bxl2030
