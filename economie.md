@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Échanges économiques : de l’« intelligence » à la « stupidité » économiques"
+title: "Échanges économiques : de l’« intelligence » à la « stupidité » économique"
 permalink: /economie
 toc: true
 ---
