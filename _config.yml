@@ -1,8 +1,8 @@
-title: "Ouaisfi.eu — veille citoyenne critique"
+title: "Ouaisfi·eu - juste pour info"
 author: "Cellule Analyse"
 url: "https://ouaisfieu.github.io"   # Root GitHub Pages
 description: >
-  Dossiers thématiques libres (économie, citoyenneté, info & pouvoir d’agir)
+  Dossiers thématiques libres (Citoyenneté, info & pouvoir d’agir)
 
 remote_theme: "abhinavs/moonwalk"     # Moonwalk côté GitHub
 permalink: "/:slug"
@@ -27,8 +27,8 @@ theme_config:
   show_reading_time: false
   show_tags: false
   home:
-    title_projects: Nos dossiers
-    title_blog: Actualités
+    title_projects: Les dossiers
+    title_blog: Journal
 
 plugins:                     # compatibles GitHub Pages
   - jekyll-feed
