@@ -47,9 +47,10 @@ Le premier ausculte les **enjeux stratégiques et sociétaux** d’une veille ci
 
 ## TL;DR
 
-> **Transformer la vigilance citoyenne en commun stratégique** :  
-> - Un *cadre d’analyse* (dossier A) pour comprendre pourquoi et comment la veille citoyenne renforce la démocratie.  
-> - Un *guide opérationnel* (dossier B) pour passer de l’idée à la mise en réseau, pas à pas, dans le respect du décret Éducation permanente.
+**Transformer la vigilance citoyenne en commun stratégique** :
+
+- Un *cadre d’analyse* (dossier A) pour comprendre pourquoi et comment la veille citoyenne renforce la démocratie.  
+- Un *guide opérationnel* (dossier B) pour passer de l’idée à la mise en réseau, pas à pas, dans le respect du décret Éducation permanente.
 
 ---
 
@@ -72,7 +73,7 @@ Le premier ausculte les **enjeux stratégiques et sociétaux** d’une veille ci
 - **[Télécharger le PDF](assets/pdf/guide-reseau-veille.pdf)**  
 
 <iframe
-  src="/assets/pdf/guide-reseau-veille.pdf#toolbar=0"
+  src="/assets/pdf/guide-reseau-veille.pdf#toolbar=1"
   width="100%"
   height="700"
   style="border:none; margin-top:1rem;"
