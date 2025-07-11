@@ -1,14 +1,5 @@
-navbar_entries:
-  - title: "Le projet"
-    url: about
-  - title: "Dossiers"
-    url: dossiers
-  - title: "Bruxelles 2030"
-    url: bxl2030
-  - title: "GPTPardi"
-    url: GPTPardi
-  - title: "Presse"
-    url: presse
+# navbar_entries:
+
 
 project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Échanges économiques"
@@ -27,8 +18,14 @@ project_entries:           # affichés en cartes sur la page d’accueil
 footer_entries:
   - title: "GitHub"
     url: https://github.com/ouaisfieu
-  - title: "Forum"
-    url: https://ouaisfi.eu
+  - title: "À Propos"
+    url: about
+  - title: "Prototype-I"
+    url: dossiers
+  - title: "Bruxelles 2030"
+    url: bxl2030
+  - title: "GPTPardi"
+    url: GPTPardi
 
 
 # tu pourras ajouter misc_entries plus tard si besoin (FAQ, liens externes, etc.)
