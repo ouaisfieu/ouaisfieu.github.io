@@ -28,7 +28,7 @@ La guerre économique désigne l’usage d’instruments non militaires (sanctio
 - 📄 **[Télécharger le PDF](assets/pdf/sanctions.pdf)**
 
 <iframe
-  src="/assets/pdf/sanctions.pdf#toolbar=0"
+  src="/assets/pdf/sanctions.pdf#toolbar=1"
   width="100%"
   height="800"
   style="border: none; margin-top: 1rem;"
