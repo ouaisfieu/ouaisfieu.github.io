@@ -4,22 +4,18 @@
 project_entries:           # affichés en cartes sur la page d’accueil
   - title: "Échanges économiques"
     url: /economie
-    desc: "De l’« intelligence » à la « stupidité » économique"
+    desc: "De l’« intelligence » à la stupidité économique"
   - title: "La citoyenneté, c'est le brol"
     url: /citoyennete
     desc: "Et tire ton plan avec ça !"
   - title: "Guerre économique"
-    url: /sanctions
-    desc: "Allez, une bonne guerre ?"
+    url: /guerre-economique
+    desc: "Allez, une bonne guerre ? Pas un coup de feu, des millions de victimes"
   - title: "Information & pouvoir d’agir"
-    url: /info
+    url: /information
     desc: "« Savoir, c’est pouvoir », mais pas pour tout le monde"
 
 footer_entries:
-  - title: "GitHub"
-    url: https://github.com/ouaisfieu
-  - title: "À Propos"
-    url: about
   - title: "Prototype-I"
     url: dossiers
   - title: "Bruxelles 2030"
