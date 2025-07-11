@@ -13,6 +13,15 @@ Vous pouvez copier, partager, modifier, tant que :
 
 - vous ne rajoutez pas de verrous ou de conditions plus restrictives
 
+
+
+Licence Libre NC-0A 1.0
+
+> “Pas d’utilisation commerciale, self-service open bar pour le reste”
+
+(citer l’auteur·e est sympa mais pas obligé)
+
+
 ---
 
 
@@ -69,6 +78,10 @@ Ce site rassemble une **base de connaissances libre, critique et opérationnelle
 2. **Workflow de contribution** GitHub : pull requests, validation collégiale, versioning transparent.  
 3. **Traductions résumées** EN/NL pour élargir l’audience.  
 4. **Mise à jour semestrielle** : intégration de retours de terrain et indicateurs d’impact.
+
+---
+---
+*© 2025 · – Dont'be evil, just do it - ·*
 
 ---
 
