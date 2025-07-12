@@ -1,8 +1,8 @@
-title: "Ouaisfi·eu - juste pour info"
-author: "Cellule Analyse"
+title: "juste pour info"
+author: "proto cellule"
 url: "https://ouaisfieu.github.io"   # Root GitHub Pages
 description: >
-  Dossiers thématiques libres (Citoyenneté, info & pouvoir d’agir)
+  Dossiers libres (Citoyenneté, info & pouvoir d’agir)
 
 remote_theme: "abhinavs/moonwalk"     # Moonwalk côté GitHub
 permalink: "/:slug"
