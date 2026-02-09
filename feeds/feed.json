@@ -1,0 +1,217 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Alertes Sociales Belgique",
+  "home_page_url": "https://alertes-sociales.be/",
+  "feed_url": "https://alertes-sociales.be/feeds/feed.json",
+  "description": "Surveillance citoyenne des droits sociaux en Belgique. Documentation du démantèlement des protections sociales, coalition Arizona, moratoire Éducation Permanente FWB, recours constitutionnels.",
+  "icon": "https://alertes-sociales.be/assets/img/logo-512.png",
+  "favicon": "https://alertes-sociales.be/assets/img/favicon-32.png",
+  "language": "fr-BE",
+  "authors": [
+    {
+      "name": "Collectif Alertes Sociales",
+      "url": "https://alertes-sociales.be/",
+      "avatar": "https://alertes-sociales.be/assets/img/avatar-collectif.png"
+    }
+  ],
+  "expired": false,
+  "_alertes_sociales": {
+    "type": "civic_surveillance",
+    "jurisdiction": "BE",
+    "regions": ["BE-BRU", "BE-WAL", "BE-VLG"],
+    "topics": [
+      "droits_sociaux",
+      "coalition_arizona",
+      "education_permanente",
+      "chomage",
+      "article_23_constitution",
+      "voka",
+      "concentration_mediatique"
+    ],
+    "key_figures": {
+      "exclusions_chomage_total": 184463,
+      "exclusions_janvier_2026": 100102,
+      "associations_ep_gelees": 270,
+      "travailleurs_ep_affectes": 2300,
+      "recours_constitutionnels": ["8629", "8630", "8632"],
+      "vulnerabilite_numerique_pct": 40
+    },
+    "key_dates": {
+      "accord_arizona": "2025-01-31",
+      "decret_programme_fwb": "2025-12-17",
+      "entree_vigueur": "2026-01-01",
+      "depot_recours": "2026-01-29",
+      "manifestation_prevue": "2026-03-12"
+    },
+    "sources_primaires": [
+      "IFDH Avis 2025/4",
+      "LDH Rapport 2025",
+      "ONEM projections",
+      "Cour constitutionnelle arrêt 8/2025",
+      "Baromètre FRB 2024"
+    ],
+    "legal_framework": [
+      "Article 23 Constitution belge",
+      "Pacte culturel 16 juillet 1973",
+      "Charte sociale européenne art. 12",
+      "CJUE C-817/19"
+    ],
+    "actors": {
+      "government": ["MR", "N-VA", "CD&V", "Les Engagés", "Vooruit"],
+      "opposition": ["PS", "Écolo", "PTB", "DéFI"],
+      "civil_society": ["FGTB", "CSC", "CGSLB", "LDH", "IFDH", "Amnesty"],
+      "patronat": ["VOKA", "FEB"]
+    },
+    "contact": "contact@alertes-sociales.be",
+    "license": "CC BY-SA 4.0",
+    "machine_readable": true,
+    "llm_friendly": true
+  },
+  "items": [
+    {
+      "id": "https://alertes-sociales.be/articles/demantelement-orchestree.html",
+      "url": "https://alertes-sociales.be/articles/demantelement-orchestree.html",
+      "title": "Le démantèlement orchestré : 184 463 exclusions chômage et moratoire Éducation Permanente",
+      "date_published": "2026-02-09T08:00:00+01:00",
+      "date_modified": "2026-02-09T08:00:00+01:00",
+      "authors": [
+        {
+          "name": "Collectif Alertes Sociales",
+          "url": "https://alertes-sociales.be/"
+        }
+      ],
+      "tags": [
+        "coalition-arizona",
+        "chomage",
+        "education-permanente",
+        "fwb",
+        "article-23",
+        "recours-constitutionnels",
+        "onem",
+        "standstill"
+      ],
+      "language": "fr-BE",
+      "summary": "Le gouvernement belge mène une offensive coordonnée sans précédent contre les droits sociaux et culturels : 184 463 chômeurs exclus d'ici 2027, 270 associations d'Éducation Permanente gelées. Trois recours constitutionnels déposés.",
+      "content_html": "<h2>Synthèse de l'alerte</h2><p>Le gouvernement belge mène une <strong>offensive coordonnée sans précédent</strong> contre les droits sociaux et culturels :</p><ul><li><strong>184 463 chômeurs</strong> exclus d'ici juillet 2027 (coalition Arizona)</li><li><strong>100 102 exclusions</strong> dès janvier 2026</li><li><strong>270 associations</strong> d'Éducation Permanente gelées</li><li><strong>2 300 travailleurs</strong> EP affectés</li><li><strong>3 recours constitutionnels</strong> déposés (rôles 8629, 8630, 8632)</li></ul>",
+      "content_text": "Le gouvernement belge mène une offensive coordonnée sans précédent contre les droits sociaux et culturels : 184 463 chômeurs exclus d'ici juillet 2027, 100 102 exclusions dès janvier 2026, 270 associations d'Éducation Permanente gelées, 2 300 travailleurs EP affectés, 3 recours constitutionnels déposés (rôles 8629, 8630, 8632).",
+      "_alertes_sociales": {
+        "article_type": "investigation",
+        "severity": "critical",
+        "geographic_scope": ["BE-BRU", "BE-WAL", "BE-VLG"],
+        "affected_population": 184463,
+        "key_figures": {
+          "exclusions_chomage": 184463,
+          "exclusions_janvier": 100102,
+          "associations_gelees": 270,
+          "travailleurs_affectes": 2300
+        },
+        "legal_references": [
+          "Article 23 Constitution",
+          "Arrêt 69/2023 Cour constitutionnelle",
+          "Pacte culturel 1973"
+        ],
+        "recours": ["8629", "8630", "8632"],
+        "citations": [
+          {
+            "source": "FGTB",
+            "author": "Thierry Bodson",
+            "quote": "le plus grand recul social de ces 80 dernières années en Belgique"
+          },
+          {
+            "source": "CSC",
+            "author": "Ann Vermorgen",
+            "quote": "une menace grave pour la prospérité et le bien-être des travailleurs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://alertes-sociales.be/articles/depossession-pouvoir-agir.html",
+      "url": "https://alertes-sociales.be/articles/depossession-pouvoir-agir.html",
+      "title": "Dépossession du pouvoir d'agir 1980-2026 : VOKA, capture corporatiste et fracture numérique",
+      "date_published": "2026-02-09T08:00:00+01:00",
+      "date_modified": "2026-02-09T08:00:00+01:00",
+      "authors": [
+        {
+          "name": "Collectif Alertes Sociales",
+          "url": "https://alertes-sociales.be/"
+        }
+      ],
+      "tags": [
+        "voka",
+        "patronat-flamand",
+        "fracture-numerique",
+        "concentration-mediatique",
+        "rossel-ipm",
+        "pillarisation"
+      ],
+      "language": "fr-BE",
+      "summary": "Analyse de la capture corporatiste en Belgique de 1980 à 2026. VOKA (patronat flamand) et redéfinition du débat public, 40% des Belges en vulnérabilité numérique, concentration médiatique (fusion Rossel-IPM).",
+      "content_html": "<h2>Chiffres clés</h2><ul><li><strong>40%</strong> des Belges en vulnérabilité numérique (FRB 2024)</li><li><strong>69%</strong> femmes en burn-out/dépression invalidité</li><li><strong>8%</strong> de non-utilisateurs d'Internet en Belgique</li><li><strong>32%</strong> d'utilisateurs aux compétences faibles</li><li>Fusion <strong>Rossel-IPM</strong> le 17 décembre 2025</li></ul>",
+      "content_text": "40% des Belges en vulnérabilité numérique (FRB 2024), 69% femmes en burn-out/dépression invalidité, 8% de non-utilisateurs d'Internet, 32% d'utilisateurs aux compétences faibles, fusion Rossel-IPM le 17 décembre 2025.",
+      "_alertes_sociales": {
+        "article_type": "analysis",
+        "severity": "high",
+        "time_span": "1980-2026",
+        "key_figures": {
+          "vulnerabilite_numerique_pct": 40,
+          "femmes_burnout_pct": 69,
+          "non_utilisateurs_internet_pct": 8,
+          "competences_faibles_pct": 32
+        },
+        "media_concentration": {
+          "event": "fusion Rossel-IPM",
+          "date": "2025-12-17"
+        },
+        "researchers_cited": [
+          {"name": "Willems", "affiliation": "UAntwerpen"},
+          {"name": "Schamp", "affiliation": "UGent"},
+          {"name": "Maly", "affiliation": "Tilburg"}
+        ]
+      }
+    },
+    {
+      "id": "https://alertes-sociales.be/articles/strategie-medias-publication.html",
+      "url": "https://alertes-sociales.be/articles/strategie-medias-publication.html",
+      "title": "Stratégie médias et publication : guide pour alerter sur les droits sociaux en Belgique",
+      "date_published": "2026-02-09T08:00:00+01:00",
+      "date_modified": "2026-02-09T08:00:00+01:00",
+      "authors": [
+        {
+          "name": "Collectif Alertes Sociales",
+          "url": "https://alertes-sociales.be/"
+        }
+      ],
+      "tags": [
+        "medias-belges",
+        "publication-academique",
+        "carte-blanche",
+        "lanceur-alerte",
+        "presse-francophone"
+      ],
+      "language": "fr-BE",
+      "summary": "Guide pratique pour publier et diffuser des alertes sur les droits sociaux en Belgique. Cartographie des médias francophones et internationaux, stratégie de publication en cascade, contacts éditoriaux.",
+      "content_html": "<h3>Canaux francophones</h3><ul><li><strong>Le Soir</strong> : cartes blanches 500-1000 mots</li><li><strong>La Libre</strong> : section Ripostes</li><li><strong>La Revue Nouvelle</strong> : 15-35k caractères</li><li><strong>Brussels Studies</strong> : 30k max, ISO 690</li></ul><h3>Canaux internationaux</h3><ul><li><strong>Social Europe</strong> : 700-1000 mots anglais</li><li><strong>openDemocracy</strong> : pitch éditorial</li></ul>",
+      "content_text": "Canaux francophones : Le Soir (cartes blanches 500-1000 mots), La Libre (Ripostes), La Revue Nouvelle (15-35k caractères), Brussels Studies (30k max, ISO 690). Canaux internationaux : Social Europe (700-1000 mots), openDemocracy.",
+      "_alertes_sociales": {
+        "article_type": "guide",
+        "severity": "informational",
+        "media_contacts": {
+          "francophone": [
+            {"name": "La Revue Nouvelle", "email": "redaction@revuenouvelle.be", "format": "15-35k caractères"},
+            {"name": "Brussels Studies", "email": "info@brusselsstudies.be", "format": "30k max, ISO 690"},
+            {"name": "CRISP", "email": "c.istasse@crisp.be"}
+          ],
+          "international": [
+            {"name": "Social Europe", "email": "submissions@socialeurope.eu", "format": "700-1000 mots EN"},
+            {"name": "openDemocracy", "email": "pitch@opendemocracy.net"}
+          ],
+          "wire": [
+            {"name": "Belga", "email": "info@belga.be"}
+          ]
+        },
+        "publication_strategy": "cascade"
+      }
+    }
+  ]
+}

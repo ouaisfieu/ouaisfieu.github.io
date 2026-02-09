@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Alertes Sociales Belgique</title>
+    <link>https://alertes-sociales.be/</link>
+    <description>Surveillance citoyenne des droits sociaux en Belgique. Documentation du démantèlement des protections sociales, analyses critiques et alertes thématiques sur la coalition Arizona, le moratoire Éducation Permanente FWB et les recours constitutionnels.</description>
+    <language>fr-be</language>
+    <copyright>© 2026 Collectif Alertes Sociales - CC BY-SA 4.0</copyright>
+    <managingEditor>contact@alertes-sociales.be (Collectif Alertes Sociales)</managingEditor>
+    <webMaster>contact@alertes-sociales.be (Collectif Alertes Sociales)</webMaster>
+    <pubDate>Sun, 09 Feb 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2026 08:00:00 +0100</lastBuildDate>
+    <category domain="https://alertes-sociales.be">Droits sociaux</category>
+    <category domain="https://alertes-sociales.be">Belgique</category>
+    <category domain="https://alertes-sociales.be">Politique sociale</category>
+    <category domain="https://alertes-sociales.be">Éducation Permanente</category>
+    <category domain="https://alertes-sociales.be">Coalition Arizona</category>
+    <generator>Alertes Sociales Belgique Static Generator</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2026-02-09T08:00:00+01:00</sy:updateBase>
+    
+    <atom:link href="https://alertes-sociales.be/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alertes-sociales.be/feeds/atom.xml" rel="alternate" type="application/atom+xml"/>
+    <atom:link href="https://alertes-sociales.be/feeds/feed.json" rel="alternate" type="application/feed+json"/>
+    
+    <image>
+      <url>https://alertes-sociales.be/assets/img/logo-512.png</url>
+      <title>Alertes Sociales Belgique</title>
+      <link>https://alertes-sociales.be/</link>
+      <width>512</width>
+      <height>512</height>
+      <description>Logo du Collectif Alertes Sociales Belgique</description>
+    </image>
+
+    <!-- ARTICLE 1: Démantèlement orchestré -->
+    <item>
+      <title>Le démantèlement orchestré : 184 463 exclusions chômage et moratoire Éducation Permanente</title>
+      <link>https://alertes-sociales.be/articles/demantelement-orchestree.html</link>
+      <guid isPermaLink="true">https://alertes-sociales.be/articles/demantelement-orchestree.html</guid>
+      <pubDate>Sun, 09 Feb 2026 08:00:00 +0100</pubDate>
+      <dc:creator>Collectif Alertes Sociales</dc:creator>
+      <dc:date>2026-02-09T08:00:00+01:00</dc:date>
+      <dc:subject>Coalition Arizona</dc:subject>
+      <dc:subject>Éducation Permanente</dc:subject>
+      <dc:subject>Droits sociaux</dc:subject>
+      <dc:subject>Article 23 Constitution</dc:subject>
+      <dc:language>fr-BE</dc:language>
+      <dc:rights>CC BY-SA 4.0</dc:rights>
+      <category>Coalition Arizona</category>
+      <category>Chômage</category>
+      <category>Éducation Permanente</category>
+      <category>FWB</category>
+      <category>Article 23</category>
+      <category>Recours constitutionnels</category>
+      <description><![CDATA[Le gouvernement belge mène une offensive coordonnée sans précédent contre les droits sociaux et culturels. Au niveau fédéral, la coalition Arizona prépare l'exclusion de 184 463 chômeurs d'ici juillet 2027, tandis qu'au niveau de la Fédération Wallonie-Bruxelles, le gouvernement MR-Les Engagés impose un moratoire sur l'Éducation Permanente, gelant 270 associations et 2 300 travailleurs.]]></description>
+      <content:encoded><![CDATA[
+        <h2>Synthèse de l'alerte</h2>
+        <p>Le gouvernement belge mène une <strong>offensive coordonnée sans précédent</strong> contre les droits sociaux et culturels :</p>
+        <ul>
+          <li><strong>184 463 chômeurs</strong> exclus d'ici juillet 2027 (coalition Arizona)</li>
+          <li><strong>100 102 exclusions</strong> dès janvier 2026</li>
+          <li><strong>270 associations</strong> d'Éducation Permanente gelées</li>
+          <li><strong>2 300 travailleurs</strong> EP affectés</li>
+          <li><strong>3 recours constitutionnels</strong> déposés (rôles 8629, 8630, 8632)</li>
+        </ul>
+        <h2>Dates clés</h2>
+        <ul>
+          <li>31 janvier 2025 : Accord Arizona</li>
+          <li>17 décembre 2025 : Décret-programme FWB moratoire EP</li>
+          <li>1er janvier 2026 : Entrée en vigueur</li>
+          <li>29-30 janvier 2026 : Dépôt recours constitutionnels</li>
+        </ul>
+        <p><a href="https://alertes-sociales.be/articles/demantelement-orchestree.html">Lire l'analyse complète →</a></p>
+      ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+
+    <!-- ARTICLE 2: Dépossession du pouvoir d'agir -->
+    <item>
+      <title>Dépossession du pouvoir d'agir 1980-2026 : VOKA, capture corporatiste et fracture numérique</title>
+      <link>https://alertes-sociales.be/articles/depossession-pouvoir-agir.html</link>
+      <guid isPermaLink="true">https://alertes-sociales.be/articles/depossession-pouvoir-agir.html</guid>
+      <pubDate>Sun, 09 Feb 2026 08:00:00 +0100</pubDate>
+      <dc:creator>Collectif Alertes Sociales</dc:creator>
+      <dc:date>2026-02-09T08:00:00+01:00</dc:date>
+      <dc:subject>VOKA</dc:subject>
+      <dc:subject>Fracture numérique</dc:subject>
+      <dc:subject>Concentration médiatique</dc:subject>
+      <dc:subject>Belgique</dc:subject>
+      <dc:language>fr-BE</dc:language>
+      <dc:rights>CC BY-SA 4.0</dc:rights>
+      <category>VOKA</category>
+      <category>Patronat flamand</category>
+      <category>Fracture numérique</category>
+      <category>Médias belges</category>
+      <category>Pillarisation</category>
+      <description><![CDATA[Analyse de la capture corporatiste en Belgique de 1980 à 2026. Comment le VOKA (patronat flamand) a redéfini le cadre du débat public, tandis que 40% des Belges subissent la fracture numérique et que la concentration médiatique (fusion Rossel-IPM) réduit le pluralisme.]]></description>
+      <content:encoded><![CDATA[
+        <h2>Chiffres clés</h2>
+        <ul>
+          <li><strong>40%</strong> des Belges en vulnérabilité numérique (FRB 2024)</li>
+          <li><strong>69%</strong> femmes en burn-out/dépression invalidité</li>
+          <li><strong>8%</strong> de non-utilisateurs d'Internet en Belgique</li>
+          <li><strong>32%</strong> d'utilisateurs aux compétences faibles</li>
+          <li>Fusion <strong>Rossel-IPM</strong> le 17 décembre 2025</li>
+        </ul>
+        <h2>Analyse</h2>
+        <p>Cette étude documente la dépossession systématique du pouvoir d'agir citoyen à travers trois vecteurs : la capture corporatiste par le VOKA, l'exclusion numérique structurelle, et la concentration médiatique qui réduit l'espace du débat démocratique.</p>
+        <p><a href="https://alertes-sociales.be/articles/depossession-pouvoir-agir.html">Lire l'analyse complète →</a></p>
+      ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+
+    <!-- ARTICLE 3: Stratégie médias -->
+    <item>
+      <title>Stratégie médias et publication : guide pour alerter sur les droits sociaux en Belgique</title>
+      <link>https://alertes-sociales.be/articles/strategie-medias-publication.html</link>
+      <guid isPermaLink="true">https://alertes-sociales.be/articles/strategie-medias-publication.html</guid>
+      <pubDate>Sun, 09 Feb 2026 08:00:00 +0100</pubDate>
+      <dc:creator>Collectif Alertes Sociales</dc:creator>
+      <dc:date>2026-02-09T08:00:00+01:00</dc:date>
+      <dc:subject>Médias belges</dc:subject>
+      <dc:subject>Publication académique</dc:subject>
+      <dc:subject>Lanceur d'alerte</dc:subject>
+      <dc:subject>Presse francophone</dc:subject>
+      <dc:language>fr-BE</dc:language>
+      <dc:rights>CC BY-SA 4.0</dc:rights>
+      <category>Médias</category>
+      <category>Publication</category>
+      <category>Carte blanche</category>
+      <category>Académique</category>
+      <category>Lanceur d'alerte</category>
+      <description><![CDATA[Guide pratique pour publier et diffuser des alertes sur les droits sociaux en Belgique. Cartographie des médias francophones et internationaux, stratégie de publication en cascade, contacts éditoriaux, formats et spécifications techniques.]]></description>
+      <content:encoded><![CDATA[
+        <h2>Canaux de publication</h2>
+        <h3>Médias francophones</h3>
+        <ul>
+          <li><strong>Le Soir</strong> : cartes blanches 500-1000 mots</li>
+          <li><strong>La Libre</strong> : section Ripostes</li>
+          <li><strong>La Revue Nouvelle</strong> : 15-35k caractères (redaction@revuenouvelle.be)</li>
+          <li><strong>Brussels Studies</strong> : 30k max, ISO 690 (info@brusselsstudies.be)</li>
+        </ul>
+        <h3>Canaux internationaux</h3>
+        <ul>
+          <li><strong>Social Europe</strong> : 700-1000 mots (submissions@socialeurope.eu)</li>
+          <li><strong>openDemocracy</strong> : pitch@opendemocracy.net</li>
+        </ul>
+        <p><a href="https://alertes-sociales.be/articles/strategie-medias-publication.html">Consulter le guide complet →</a></p>
+      ]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+
+  </channel>
+</rss>
