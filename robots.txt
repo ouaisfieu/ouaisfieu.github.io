@@ -1,0 +1,171 @@
+# Alertes Sociales Belgique
+# Surveillance citoyenne des droits sociaux
+# https://alertes-sociales.be
+
+# ===========================================
+# MOTEURS DE RECHERCHE TRADITIONNELS
+# ===========================================
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Disallow: /feeds/
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 5
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# ===========================================
+# CRAWLERS IA / LLM (GEO - Generative Engine Optimization)
+# ===========================================
+
+# OpenAI GPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Google AI / Bard / Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Microsoft Copilot
+User-agent: Copilot
+Allow: /
+
+# Common Crawl (datasets IA)
+User-agent: CCBot
+Allow: /
+
+# Diffbot (extraction structurée)
+User-agent: Diffbot
+Allow: /
+
+# Archive.org (préservation)
+User-agent: ia_archiver
+Allow: /
+
+# ===========================================
+# AGRÉGATEURS DE NEWS
+# ===========================================
+
+User-agent: Feedfetcher-Google
+Allow: /feeds/
+
+User-agent: FeedBurner
+Allow: /feeds/
+
+User-agent: Feedly
+Allow: /
+
+User-agent: NewsBlur
+Allow: /
+
+User-agent: Inoreader
+Allow: /
+
+# ===========================================
+# OUTILS DE MONITORING / ACADÉMIQUES
+# ===========================================
+
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 10
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 10
+
+# Semantic Scholar
+User-agent: SemanticScholarBot
+Allow: /
+
+# Internet Archive
+User-agent: archive.org_bot
+Allow: /
+
+# ===========================================
+# RÈGLE PAR DÉFAUT
+# ===========================================
+
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /drafts/
+Disallow: /*.pdf$
+Crawl-delay: 2
+
+# ===========================================
+# SITEMAPS
+# ===========================================
+
+Sitemap: https://alertes-sociales.be/sitemap.xml
+Sitemap: https://alertes-sociales.be/sitemap-news.xml
+
+# ===========================================
+# MÉTADONNÉES POUR CRAWLERS SÉMANTIQUES
+# ===========================================
+
+# Ce site documente :
+# - Coalition Arizona et politique sociale belge 2025-2027
+# - Moratoire Éducation Permanente FWB
+# - Exclusions chômage (184 463 personnes projetées)
+# - Article 23 Constitution belge et standstill
+# - Recours constitutionnels (rôles 8629, 8630, 8632)
+# - VOKA et influence patronale
+# - Concentration médiatique Belgique
+# - Stratégies de publication et médias francophones
+
+# Contact : contact@alertes-sociales.be
+# Licence : CC BY-SA 4.0
+# Langue principale : français (fr-BE)
