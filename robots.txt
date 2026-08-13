@@ -1,2 +1,15 @@
+# https://ouaisfieu.github.io — robots.txt
 User-agent: *
 Allow: /
+
+# Agents d'IA : lecture autorisée, un résumé machine est fourni.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://ouaisfieu.github.io/hub/sitemap.xml
